@@ -1,0 +1,30 @@
+.searchbar{
+    display: flex;
+justify-content:center ;
+    align-items: center;
+    border: 0px solid;
+    border-color: black;
+border-radius: 28px;
+padding:0px 18px 0px 18px;
+box-shadow: 0 2px 15px rgba(0, 0, 0, .12);
+gap: 10px;
+font-weight: 400;
+}
+.flex{
+    display: flex;
+}
+.weight{
+    font-weight: 600;
+}
+.colorGrey{
+    color: gray;
+}
+.colorBlack{
+    color: black;
+}
+.searchIconDiv{
+    background: #FE385D;
+    padding: 5px 8px 5px 8px;
+    border-radius: 50px;
+    color: white !important;
+}
